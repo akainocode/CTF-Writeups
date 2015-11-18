@@ -8,7 +8,7 @@ We only have 49 shades of gray D:
 
 ---
 
-So, we decided to run this image through [gimp](https://www.gimp.org/). 
+Knowing that gray is a combination of only black and white, we decided to run this image through [gimp](https://www.gimp.org/). 
 
 We opened up the color levels menu.
 
